@@ -21,6 +21,7 @@ git fetch psp
 
 # look at all available branches on the remote repositories, -r is for remote
 git branch -r
+print('Hello world')
 
 # now we want your master branch to point to the PSP repo's master, not YOUR master on origin
 
